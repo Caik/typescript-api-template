@@ -2,7 +2,7 @@
 	"name": "typescript-api-utils",
 	"version": "1.0.0",
 	"description": "Typescript API template with some utilities",
-	"main": "index.js",
+	"main": "dist/index.js",
 	"scripts": {
 		"build": "tsc"
 	},
@@ -10,11 +10,7 @@
 		"type": "git",
 		"url": "git+https://github.com/Caik/typescript-api-template.git"
 	},
-	"keywords": [
-		"Typescript",
-		"API",
-		"Express"
-	],
+	"keywords": ["Typescript", "API", "Express"],
 	"author": "“Carlos <“caiik@live.com”> (https://github.com/Caik)",
 	"license": "MIT",
 	"bugs": {
